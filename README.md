@@ -20,8 +20,7 @@ You may also see any lint errors in the console.
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-Application/blob/main/Screenshots/signup.PNG?raw=true)
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-Application/blob/main/Screenshots/loginValidation.PNG?raw=true)
 
-![stack Overflow](https://github.com/ManiMaran001/WhatsApp-Clone-UI-screens/blob/main/Screenshots/calls.PNG?raw=true)
-![stack Overflow](https://github.com/ManiMaran001/WhatsApp-Clone-UI-screens/blob/main/Screenshots/search.PNG?raw=true)
+![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-Application/blob/main/Screenshots/HomePage.PNG?raw=true)
 
 ### `npm test`
 
