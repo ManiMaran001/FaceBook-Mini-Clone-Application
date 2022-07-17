@@ -2,7 +2,7 @@ FaceBook clone Ui screens React js
 I developed only LoginPage ,SignUpPage, HomePage in Material UI with Formik Validation and Login Api call in Redux.
 
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/HomePage.PNG?raw=true)
-![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/HomePage.PNG?raw=true)
+![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/loginValidation.PNG?raw=true)
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/HomePage.PNG?raw=true)
 
 
