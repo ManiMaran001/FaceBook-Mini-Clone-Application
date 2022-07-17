@@ -3,7 +3,7 @@ I developed only LoginPage ,SignUpPage, HomePage in Material UI with Formik Vali
 
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/HomePage.PNG?raw=true)
 ![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/loginValidation.PNG?raw=true)
-![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/HomePage.PNG?raw=true)
+![stack Overflow](https://github.com/ManiMaran001/FaceBook-Mini-Clone-WebApp/blob/main/Screenshots/signup.PNG?raw=true)
 
 
 
